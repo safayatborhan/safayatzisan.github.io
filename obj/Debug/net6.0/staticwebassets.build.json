@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VDzusSJXNHnFkKUYYECmi7U7pZvgKQUbLRkKAI5i9pA=",
+  "Source": "RemittanceCompute.API",
+  "BasePath": "_content/RemittanceCompute.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
